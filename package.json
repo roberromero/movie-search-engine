@@ -2,7 +2,7 @@
   "name": "movie-search-engine",
   "version": "0.1.0",
   "private": true,
-  "homepage": "movie-search-engine",
+  "homepage": "http://roberromero.github.io/movie-search-engine",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
