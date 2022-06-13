@@ -16,7 +16,7 @@ const App = () => {
 
   // Here is your key: 19fe2539
   // OMDb API: http://www.omdbapi.com/?i=tt3896198&apikey=19fe2539
-  const API_URL = 'http://www.omdbapi.com/?apikey=19fe2539&';
+  const API_URL = 'https://www.omdbapi.com/?apikey=19fe2539&';
   const [title, setTitle] = useState("");
   const[ movies, setMovies] = useState([]);
   //Fetch data from API
